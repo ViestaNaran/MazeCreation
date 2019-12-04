@@ -7,7 +7,6 @@ code is in sample.
 Maze_Creation.png
 [Maze_Creation Picture](/MazeCreationAndSolves/Maze_Creation.png)
 
-https://github.com/ViestaNaran/MazeCreation/blob/master/Maze_Creation.png
 
 
 
